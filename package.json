@@ -1,0 +1,21 @@
+{
+  "name": "xcxerxes-array-first",
+  "version": "1.0.0",
+  "description": "array first",
+  "main": "index.js",
+  "repository": "https://github.com/XcXerxes/xcxerxes-array-first.git",
+  "author": "XcXerxes <xia510377386@icloud.com>",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "node",
+    "array",
+    "slice first"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "array-slice": "^1.1.0",
+    "is-number": "^5.0.0"
+  }
+}
